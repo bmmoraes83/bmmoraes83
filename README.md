@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**bmmoraes83/bmmoraes83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Eu sou **Bruno Moraes**, atualmente atuo como **Partner Technology Strategist na Microsoft**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, inovação e por ajudar parceiros a alcançar seus objetivos através de soluções digitais.
+
+---
+
+### 🚀 Principais habilidades
+- Estratégia de tecnologia para parceiros
+- Cloud Computing (Azure)
+- Transformação digital
+- Desenvolvimento de software
+- Liderança e colaboração
+
+### 📫 Como me encontrar
+- [LinkedIn]([https://www.linkedin.com/in/bmmoraes83](https://www.linkedin.com/in/bruno-moraes/))
+- [GitHub](https://github.com/bmmoraes83)
+
+---
+
+#### Alguns dos meus repositórios favoritos:
+- [Repo1](https://github.com/bmmoraes83/Repo1)
+- [skills-introduction-to-github](https://github.com/bmmoraes83/skills-introduction-to-github)
+- [skills-review-pull-requests](https://github.com/bmmoraes83/skills-review-pull-requests)
+- [skills-introduction-to-codeql](https://github.com/bmmoraes83/skills-introduction-to-codeql)
+- [skills-code-with-codespaces](
