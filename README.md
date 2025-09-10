@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, inovação e por ajudar parceiros a alcançar seu
 
 ### 📫 Como me encontrar
 - [GitHub](https://github.com/bmmoraes83)
-- [LinkedIn]([https://github.com/bmmoraes83](https://www.linkedin.com/in/bruno-moraes/)
+- [LinkedIn](https://www.linkedin.com/in/bruno-moraes/)
 
 ---
 
