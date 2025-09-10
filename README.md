@@ -26,4 +26,4 @@ Sou apaixonado por tecnologia, inovação e por ajudar parceiros a alcançar seu
 - [skills-introduction-to-github](https://github.com/bmmoraes83/skills-introduction-to-github)
 - [skills-review-pull-requests](https://github.com/bmmoraes83/skills-review-pull-requests)
 - [skills-introduction-to-codeql](https://github.com/bmmoraes83/skills-introduction-to-codeql)
-- [skills-code-with-codespaces](
+- [skills-code-with-codespaces](https://github.com/bmmoraes83/skills-code-with-codespaces)
